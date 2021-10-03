@@ -6,6 +6,8 @@ public class Third {
 
     // this is practice
 
+    // these are additional lines
 
+    // for my second commit
 
 }
